@@ -1,0 +1,433 @@
+Teardrop Report PCB1.PcbDoc
+On 1/25/2019 at 19:13:35
+
+Pads visited                : 420
+
+Vias visited                : 0
+
+Pad teardrops failed : 0
+
+Pad Y?_5-2(146.888mm,103.251mm) on Top Layer
+Pad Y?_5-1(156.388mm,103.251mm) on Top Layer
+Pad R_Boot_Pull_up_5-2(151.109mm,121.817mm) on Top Layer
+Pad R_Boot_Pull_up_5-1(151.109mm,123.317mm) on Top Layer
+Pad U_STM32_5-1(148.132mm,114.05mm) on Top Layer
+Pad U_STM32_5-2(148.132mm,113.4mm) on Top Layer
+Pad U_STM32_5-3(148.132mm,112.75mm) on Top Layer
+Pad U_STM32_5-4(148.132mm,112.1mm) on Top Layer
+Pad U_STM32_5-5(148.132mm,111.45mm) on Top Layer
+Pad U_STM32_5-6(148.132mm,110.8mm) on Top Layer
+Pad U_STM32_5-7(148.132mm,110.15mm) on Top Layer
+Pad U_STM32_5-8(148.132mm,109.5mm) on Top Layer
+Pad U_STM32_5-9(148.132mm,108.85mm) on Top Layer
+Pad U_STM32_5-10(148.132mm,108.2mm) on Top Layer
+Pad U_STM32_5-20(153.832mm,114.05mm) on Top Layer
+Pad U_STM32_5-19(153.832mm,113.4mm) on Top Layer
+Pad U_STM32_5-18(153.832mm,112.75mm) on Top Layer
+Pad U_STM32_5-17(153.832mm,112.1mm) on Top Layer
+Pad U_STM32_5-16(153.832mm,111.45mm) on Top Layer
+Pad U_STM32_5-15(153.832mm,110.8mm) on Top Layer
+Pad U_STM32_5-14(153.832mm,110.15mm) on Top Layer
+Pad U_STM32_5-13(153.832mm,109.5mm) on Top Layer
+Pad U_STM32_5-12(153.832mm,108.85mm) on Top Layer
+Pad U_STM32_5-11(153.832mm,108.2mm) on Top Layer
+Pad U_Regulator_5-4(145.394mm,132.758mm) on Top Layer
+Pad U_Regulator_5-3(147.684mm,126.068mm) on Top Layer
+Pad U_Regulator_5-2(145.394mm,126.068mm) on Top Layer
+Pad U_Regulator_5-1(143.104mm,126.068mm) on Top Layer
+Pad R_NRST_5-2(163.555mm,103.762mm) on Top Layer
+Pad R_NRST_5-1(163.555mm,100.962mm) on Top Layer
+Pad R_BOOT_0_5-2(151.49mm,116.964mm) on Top Layer
+Pad R_BOOT_0_5-1(151.49mm,119.764mm) on Top Layer
+Pad C_VCC_5V_5-2(143.235mm,118.491mm) on Top Layer
+Pad C_VCC_5V_5-1(143.235mm,121.285mm) on Top Layer
+Pad C_VCC_3V3_5-2(147.553mm,117.094mm) on Top Layer
+Pad C_VCC_3V3_5-1(147.553mm,119.888mm) on Top Layer
+Pad C_OSC_2_5-2(153.416mm,99.06mm) on Top Layer
+Pad C_OSC_2_5-1(156.21mm,99.06mm) on Top Layer
+Pad C_OSC_1_5-2(149.86mm,99.06mm) on Top Layer
+Pad C_OSC_1_5-1(147.066mm,99.06mm) on Top Layer
+Pad C_NRST_5-2(149.098mm,96.012mm) on Top Layer
+Pad C_NRST_5-1(151.892mm,96.012mm) on Top Layer
+Pad Y?_4-2(147.65mm,39.624mm) on Top Layer
+Pad Y?_4-1(157.15mm,39.624mm) on Top Layer
+Pad R_Boot_Pull_up_4-2(151.871mm,58.19mm) on Top Layer
+Pad R_Boot_Pull_up_4-1(151.871mm,59.69mm) on Top Layer
+Pad U_STM32_4-1(148.894mm,50.423mm) on Top Layer
+Pad U_STM32_4-2(148.894mm,49.773mm) on Top Layer
+Pad U_STM32_4-3(148.894mm,49.123mm) on Top Layer
+Pad U_STM32_4-4(148.894mm,48.473mm) on Top Layer
+Pad U_STM32_4-5(148.894mm,47.823mm) on Top Layer
+Pad U_STM32_4-6(148.894mm,47.173mm) on Top Layer
+Pad U_STM32_4-7(148.894mm,46.523mm) on Top Layer
+Pad U_STM32_4-8(148.894mm,45.873mm) on Top Layer
+Pad U_STM32_4-9(148.894mm,45.223mm) on Top Layer
+Pad U_STM32_4-10(148.894mm,44.573mm) on Top Layer
+Pad U_STM32_4-20(154.594mm,50.423mm) on Top Layer
+Pad U_STM32_4-19(154.594mm,49.773mm) on Top Layer
+Pad U_STM32_4-18(154.594mm,49.123mm) on Top Layer
+Pad U_STM32_4-17(154.594mm,48.473mm) on Top Layer
+Pad U_STM32_4-16(154.594mm,47.823mm) on Top Layer
+Pad U_STM32_4-15(154.594mm,47.173mm) on Top Layer
+Pad U_STM32_4-14(154.594mm,46.523mm) on Top Layer
+Pad U_STM32_4-13(154.594mm,45.873mm) on Top Layer
+Pad U_STM32_4-12(154.594mm,45.223mm) on Top Layer
+Pad U_STM32_4-11(154.594mm,44.573mm) on Top Layer
+Pad U_Regulator_4-4(146.156mm,69.131mm) on Top Layer
+Pad U_Regulator_4-3(148.446mm,62.441mm) on Top Layer
+Pad U_Regulator_4-2(146.156mm,62.441mm) on Top Layer
+Pad U_Regulator_4-1(143.866mm,62.441mm) on Top Layer
+Pad R_NRST_4-2(164.317mm,40.135mm) on Top Layer
+Pad R_NRST_4-1(164.317mm,37.335mm) on Top Layer
+Pad R_BOOT_0_4-2(152.252mm,53.337mm) on Top Layer
+Pad R_BOOT_0_4-1(152.252mm,56.137mm) on Top Layer
+Pad C_VCC_5V_4-2(143.997mm,54.864mm) on Top Layer
+Pad C_VCC_5V_4-1(143.997mm,57.658mm) on Top Layer
+Pad C_VCC_3V3_4-2(148.315mm,53.467mm) on Top Layer
+Pad C_VCC_3V3_4-1(148.315mm,56.261mm) on Top Layer
+Pad C_OSC_2_4-2(154.178mm,35.433mm) on Top Layer
+Pad C_OSC_2_4-1(156.972mm,35.433mm) on Top Layer
+Pad C_OSC_1_4-2(150.622mm,35.433mm) on Top Layer
+Pad C_OSC_1_4-1(147.828mm,35.433mm) on Top Layer
+Pad C_NRST_4-2(149.86mm,32.385mm) on Top Layer
+Pad C_NRST_4-1(152.654mm,32.385mm) on Top Layer
+Pad Y?_3-2(88.849mm,102.616mm) on Top Layer
+Pad Y?_3-1(98.349mm,102.616mm) on Top Layer
+Pad R_Boot_Pull_up_3-2(93.07mm,121.182mm) on Top Layer
+Pad R_Boot_Pull_up_3-1(93.07mm,122.682mm) on Top Layer
+Pad U_STM32_3-1(90.093mm,113.415mm) on Top Layer
+Pad U_STM32_3-2(90.093mm,112.765mm) on Top Layer
+Pad U_STM32_3-3(90.093mm,112.115mm) on Top Layer
+Pad U_STM32_3-4(90.093mm,111.465mm) on Top Layer
+Pad U_STM32_3-5(90.093mm,110.815mm) on Top Layer
+Pad U_STM32_3-6(90.093mm,110.165mm) on Top Layer
+Pad U_STM32_3-7(90.093mm,109.515mm) on Top Layer
+Pad U_STM32_3-8(90.093mm,108.865mm) on Top Layer
+Pad U_STM32_3-9(90.093mm,108.215mm) on Top Layer
+Pad U_STM32_3-10(90.093mm,107.565mm) on Top Layer
+Pad U_STM32_3-20(95.793mm,113.415mm) on Top Layer
+Pad U_STM32_3-19(95.793mm,112.765mm) on Top Layer
+Pad U_STM32_3-18(95.793mm,112.115mm) on Top Layer
+Pad U_STM32_3-17(95.793mm,111.465mm) on Top Layer
+Pad U_STM32_3-16(95.793mm,110.815mm) on Top Layer
+Pad U_STM32_3-15(95.793mm,110.165mm) on Top Layer
+Pad U_STM32_3-14(95.793mm,109.515mm) on Top Layer
+Pad U_STM32_3-13(95.793mm,108.865mm) on Top Layer
+Pad U_STM32_3-12(95.793mm,108.215mm) on Top Layer
+Pad U_STM32_3-11(95.793mm,107.565mm) on Top Layer
+Pad U_Regulator_3-4(87.355mm,132.123mm) on Top Layer
+Pad U_Regulator_3-3(89.645mm,125.433mm) on Top Layer
+Pad U_Regulator_3-2(87.355mm,125.433mm) on Top Layer
+Pad U_Regulator_3-1(85.065mm,125.433mm) on Top Layer
+Pad R_NRST_3-2(105.516mm,103.127mm) on Top Layer
+Pad R_NRST_3-1(105.516mm,100.327mm) on Top Layer
+Pad R_BOOT_0_3-2(93.451mm,116.329mm) on Top Layer
+Pad R_BOOT_0_3-1(93.451mm,119.129mm) on Top Layer
+Pad C_VCC_5V_3-2(85.196mm,117.856mm) on Top Layer
+Pad C_VCC_5V_3-1(85.196mm,120.65mm) on Top Layer
+Pad C_VCC_3V3_3-2(89.514mm,116.459mm) on Top Layer
+Pad C_VCC_3V3_3-1(89.514mm,119.253mm) on Top Layer
+Pad C_OSC_2_3-2(95.377mm,98.425mm) on Top Layer
+Pad C_OSC_2_3-1(98.171mm,98.425mm) on Top Layer
+Pad C_OSC_1_3-2(91.821mm,98.425mm) on Top Layer
+Pad C_OSC_1_3-1(89.027mm,98.425mm) on Top Layer
+Pad C_NRST_3-2(91.059mm,95.377mm) on Top Layer
+Pad C_NRST_3-1(93.853mm,95.377mm) on Top Layer
+Pad Y?_2-2(88.468mm,39.243mm) on Top Layer
+Pad Y?_2-1(97.968mm,39.243mm) on Top Layer
+Pad R_Boot_Pull_up_2-2(92.689mm,57.809mm) on Top Layer
+Pad R_Boot_Pull_up_2-1(92.689mm,59.309mm) on Top Layer
+Pad U_STM32_2-1(89.712mm,50.042mm) on Top Layer
+Pad U_STM32_2-2(89.712mm,49.392mm) on Top Layer
+Pad U_STM32_2-3(89.712mm,48.742mm) on Top Layer
+Pad U_STM32_2-4(89.712mm,48.092mm) on Top Layer
+Pad U_STM32_2-5(89.712mm,47.442mm) on Top Layer
+Pad U_STM32_2-6(89.712mm,46.792mm) on Top Layer
+Pad U_STM32_2-7(89.712mm,46.142mm) on Top Layer
+Pad U_STM32_2-8(89.712mm,45.492mm) on Top Layer
+Pad U_STM32_2-9(89.712mm,44.842mm) on Top Layer
+Pad U_STM32_2-10(89.712mm,44.192mm) on Top Layer
+Pad U_STM32_2-20(95.412mm,50.042mm) on Top Layer
+Pad U_STM32_2-19(95.412mm,49.392mm) on Top Layer
+Pad U_STM32_2-18(95.412mm,48.742mm) on Top Layer
+Pad U_STM32_2-17(95.412mm,48.092mm) on Top Layer
+Pad U_STM32_2-16(95.412mm,47.442mm) on Top Layer
+Pad U_STM32_2-15(95.412mm,46.792mm) on Top Layer
+Pad U_STM32_2-14(95.412mm,46.142mm) on Top Layer
+Pad U_STM32_2-13(95.412mm,45.492mm) on Top Layer
+Pad U_STM32_2-12(95.412mm,44.842mm) on Top Layer
+Pad U_STM32_2-11(95.412mm,44.192mm) on Top Layer
+Pad U_Regulator_2-4(86.974mm,68.75mm) on Top Layer
+Pad U_Regulator_2-3(89.264mm,62.06mm) on Top Layer
+Pad U_Regulator_2-2(86.974mm,62.06mm) on Top Layer
+Pad U_Regulator_2-1(84.684mm,62.06mm) on Top Layer
+Pad R_NRST_2-2(105.135mm,39.754mm) on Top Layer
+Pad R_NRST_2-1(105.135mm,36.954mm) on Top Layer
+Pad R_BOOT_0_2-2(93.07mm,52.956mm) on Top Layer
+Pad R_BOOT_0_2-1(93.07mm,55.756mm) on Top Layer
+Pad C_VCC_5V_2-2(84.815mm,54.483mm) on Top Layer
+Pad C_VCC_5V_2-1(84.815mm,57.277mm) on Top Layer
+Pad C_VCC_3V3_2-2(89.133mm,53.086mm) on Top Layer
+Pad C_VCC_3V3_2-1(89.133mm,55.88mm) on Top Layer
+Pad C_OSC_2_2-2(94.996mm,35.052mm) on Top Layer
+Pad C_OSC_2_2-1(97.79mm,35.052mm) on Top Layer
+Pad C_OSC_1_2-2(91.44mm,35.052mm) on Top Layer
+Pad C_OSC_1_2-1(88.646mm,35.052mm) on Top Layer
+Pad C_NRST_2-2(90.678mm,32.004mm) on Top Layer
+Pad C_NRST_2-1(93.472mm,32.004mm) on Top Layer
+Pad Y?_1-2(40.843mm,101.854mm) on Top Layer
+Pad Y?_1-1(50.343mm,101.854mm) on Top Layer
+Pad R_Boot_Pull_up_1-2(45.064mm,120.42mm) on Top Layer
+Pad R_Boot_Pull_up_1-1(45.064mm,121.92mm) on Top Layer
+Pad U_STM32_1-1(42.087mm,112.653mm) on Top Layer
+Pad U_STM32_1-2(42.087mm,112.003mm) on Top Layer
+Pad U_STM32_1-3(42.087mm,111.353mm) on Top Layer
+Pad U_STM32_1-4(42.087mm,110.703mm) on Top Layer
+Pad U_STM32_1-5(42.087mm,110.053mm) on Top Layer
+Pad U_STM32_1-6(42.087mm,109.403mm) on Top Layer
+Pad U_STM32_1-7(42.087mm,108.753mm) on Top Layer
+Pad U_STM32_1-8(42.087mm,108.103mm) on Top Layer
+Pad U_STM32_1-9(42.087mm,107.453mm) on Top Layer
+Pad U_STM32_1-10(42.087mm,106.803mm) on Top Layer
+Pad U_STM32_1-20(47.787mm,112.653mm) on Top Layer
+Pad U_STM32_1-19(47.787mm,112.003mm) on Top Layer
+Pad U_STM32_1-18(47.787mm,111.353mm) on Top Layer
+Pad U_STM32_1-17(47.787mm,110.703mm) on Top Layer
+Pad U_STM32_1-16(47.787mm,110.053mm) on Top Layer
+Pad U_STM32_1-15(47.787mm,109.403mm) on Top Layer
+Pad U_STM32_1-14(47.787mm,108.753mm) on Top Layer
+Pad U_STM32_1-13(47.787mm,108.103mm) on Top Layer
+Pad U_STM32_1-12(47.787mm,107.453mm) on Top Layer
+Pad U_STM32_1-11(47.787mm,106.803mm) on Top Layer
+Pad U_Regulator_1-4(39.349mm,131.361mm) on Top Layer
+Pad U_Regulator_1-3(41.639mm,124.671mm) on Top Layer
+Pad U_Regulator_1-2(39.349mm,124.671mm) on Top Layer
+Pad U_Regulator_1-1(37.059mm,124.671mm) on Top Layer
+Pad R_NRST_1-2(57.51mm,102.365mm) on Top Layer
+Pad R_NRST_1-1(57.51mm,99.565mm) on Top Layer
+Pad R_BOOT_0_1-2(45.445mm,115.567mm) on Top Layer
+Pad R_BOOT_0_1-1(45.445mm,118.367mm) on Top Layer
+Pad C_VCC_5V_1-2(37.19mm,117.094mm) on Top Layer
+Pad C_VCC_5V_1-1(37.19mm,119.888mm) on Top Layer
+Pad C_VCC_3V3_1-2(41.508mm,115.697mm) on Top Layer
+Pad C_VCC_3V3_1-1(41.508mm,118.491mm) on Top Layer
+Pad C_OSC_2_1-2(47.371mm,97.663mm) on Top Layer
+Pad C_OSC_2_1-1(50.165mm,97.663mm) on Top Layer
+Pad C_OSC_1_1-2(43.815mm,97.663mm) on Top Layer
+Pad C_OSC_1_1-1(41.021mm,97.663mm) on Top Layer
+Pad C_NRST_1-2(43.053mm,94.615mm) on Top Layer
+Pad C_NRST_1-1(45.847mm,94.615mm) on Top Layer
+Pad C_VCC_5V-2(36.301mm,54.229mm) on Top Layer
+Pad C_VCC_5V-1(36.301mm,57.023mm) on Top Layer
+Pad C_VCC_3V3-2(40.619mm,52.832mm) on Top Layer
+Pad C_VCC_3V3-1(40.619mm,55.626mm) on Top Layer
+Pad U_STM32-1(41.198mm,49.788mm) on Top Layer
+Pad U_STM32-2(41.198mm,49.138mm) on Top Layer
+Pad U_STM32-3(41.198mm,48.488mm) on Top Layer
+Pad U_STM32-4(41.198mm,47.838mm) on Top Layer
+Pad U_STM32-5(41.198mm,47.188mm) on Top Layer
+Pad U_STM32-6(41.198mm,46.538mm) on Top Layer
+Pad U_STM32-7(41.198mm,45.888mm) on Top Layer
+Pad U_STM32-8(41.198mm,45.238mm) on Top Layer
+Pad U_STM32-9(41.198mm,44.588mm) on Top Layer
+Pad U_STM32-10(41.198mm,43.938mm) on Top Layer
+Pad U_STM32-20(46.898mm,49.788mm) on Top Layer
+Pad U_STM32-19(46.898mm,49.138mm) on Top Layer
+Pad U_STM32-18(46.898mm,48.488mm) on Top Layer
+Pad U_STM32-17(46.898mm,47.838mm) on Top Layer
+Pad U_STM32-16(46.898mm,47.188mm) on Top Layer
+Pad U_STM32-15(46.898mm,46.538mm) on Top Layer
+Pad U_STM32-14(46.898mm,45.888mm) on Top Layer
+Pad U_STM32-13(46.898mm,45.238mm) on Top Layer
+Pad U_STM32-12(46.898mm,44.588mm) on Top Layer
+Pad U_STM32-11(46.898mm,43.938mm) on Top Layer
+Pad C_NRST-2(42.164mm,31.75mm) on Top Layer
+Pad C_NRST-1(44.958mm,31.75mm) on Top Layer
+Pad R_BOOT_0-2(44.556mm,52.702mm) on Top Layer
+Pad R_BOOT_0-1(44.556mm,55.502mm) on Top Layer
+Pad R_NRST-2(56.621mm,39.5mm) on Top Layer
+Pad R_NRST-1(56.621mm,36.7mm) on Top Layer
+Pad C_OSC_2-2(46.482mm,34.798mm) on Top Layer
+Pad C_OSC_2-1(49.276mm,34.798mm) on Top Layer
+Pad C_OSC_1-2(42.926mm,34.798mm) on Top Layer
+Pad C_OSC_1-1(40.132mm,34.798mm) on Top Layer
+Pad U_Regulator-4(38.46mm,68.496mm) on Top Layer
+Pad U_Regulator-3(40.75mm,61.806mm) on Top Layer
+Pad U_Regulator-2(38.46mm,61.806mm) on Top Layer
+Pad U_Regulator-1(36.17mm,61.806mm) on Top Layer
+Pad R_Boot_Pull_up-2(44.175mm,57.555mm) on Top Layer
+Pad R_Boot_Pull_up-1(44.175mm,59.055mm) on Top Layer
+Pad Y?-2(39.954mm,38.989mm) on Top Layer
+Pad Y?-1(49.454mm,38.989mm) on Top Layer
+Pad P_SWD_STLink_5-1(151.998mm,134.874mm) on Multi-Layer
+Pad P_SWD_STLink_5-2(154.538mm,134.874mm) on Multi-Layer
+Pad P_SWD_STLink_5-3(157.078mm,134.874mm) on Multi-Layer
+Pad P_SWD_STLink_5-4(159.618mm,134.874mm) on Multi-Layer
+Pad P_Right_5-1(165.206mm,125.476mm) on Multi-Layer
+Pad P_Right_5-2(165.206mm,122.936mm) on Multi-Layer
+Pad P_Right_5-3(165.206mm,120.396mm) on Multi-Layer
+Pad P_Right_5-4(165.206mm,117.856mm) on Multi-Layer
+Pad P_Right_5-5(165.206mm,115.316mm) on Multi-Layer
+Pad P_Right_5-6(165.206mm,112.776mm) on Multi-Layer
+Pad P_Right_5-7(165.206mm,110.236mm) on Multi-Layer
+Pad P_Right_5-8(165.206mm,107.696mm) on Multi-Layer
+Pad P_NRST_5-1(161.142mm,98.044mm) on Multi-Layer
+Pad P_NRST_5-2(163.682mm,98.044mm) on Multi-Layer
+Pad P_BOOT_0_5-1(154.538mm,127.127mm) on Multi-Layer
+Pad P_BOOT_0_5-2(157.078mm,127.127mm) on Multi-Layer
+Pad P_Left_5-1(140.314mm,122.425mm) on Multi-Layer
+Pad P_Left_5-2(140.314mm,119.885mm) on Multi-Layer
+Pad P_Left_5-3(140.314mm,117.345mm) on Multi-Layer
+Pad P_Left_5-4(140.314mm,114.805mm) on Multi-Layer
+Pad P_Left_5-5(140.314mm,112.265mm) on Multi-Layer
+Pad P_Left_5-6(140.314mm,109.725mm) on Multi-Layer
+Pad P_Left_5-7(140.314mm,107.185mm) on Multi-Layer
+Pad P_Left_5-8(140.314mm,104.645mm) on Multi-Layer
+Pad Free-2(138.917mm,136.144mm) on Multi-Layer
+Pad Free-3(138.917mm,92.964mm) on Multi-Layer
+Pad Free-4(166.222mm,92.964mm) on Multi-Layer
+Pad Free-5(166.222mm,136.144mm) on Multi-Layer
+Pad P_SWD_STLink_4-1(152.76mm,71.247mm) on Multi-Layer
+Pad P_SWD_STLink_4-2(155.3mm,71.247mm) on Multi-Layer
+Pad P_SWD_STLink_4-3(157.84mm,71.247mm) on Multi-Layer
+Pad P_SWD_STLink_4-4(160.38mm,71.247mm) on Multi-Layer
+Pad P_Right_4-1(165.968mm,61.849mm) on Multi-Layer
+Pad P_Right_4-2(165.968mm,59.309mm) on Multi-Layer
+Pad P_Right_4-3(165.968mm,56.769mm) on Multi-Layer
+Pad P_Right_4-4(165.968mm,54.229mm) on Multi-Layer
+Pad P_Right_4-5(165.968mm,51.689mm) on Multi-Layer
+Pad P_Right_4-6(165.968mm,49.149mm) on Multi-Layer
+Pad P_Right_4-7(165.968mm,46.609mm) on Multi-Layer
+Pad P_Right_4-8(165.968mm,44.069mm) on Multi-Layer
+Pad P_NRST_4-1(161.904mm,34.417mm) on Multi-Layer
+Pad P_NRST_4-2(164.444mm,34.417mm) on Multi-Layer
+Pad P_BOOT_0_4-1(155.3mm,63.5mm) on Multi-Layer
+Pad P_BOOT_0_4-2(157.84mm,63.5mm) on Multi-Layer
+Pad P_Left_4-1(141.076mm,58.798mm) on Multi-Layer
+Pad P_Left_4-2(141.076mm,56.258mm) on Multi-Layer
+Pad P_Left_4-3(141.076mm,53.718mm) on Multi-Layer
+Pad P_Left_4-4(141.076mm,51.178mm) on Multi-Layer
+Pad P_Left_4-5(141.076mm,48.638mm) on Multi-Layer
+Pad P_Left_4-6(141.076mm,46.098mm) on Multi-Layer
+Pad P_Left_4-7(141.076mm,43.558mm) on Multi-Layer
+Pad P_Left_4-8(141.076mm,41.018mm) on Multi-Layer
+Pad Free-2(139.679mm,72.517mm) on Multi-Layer
+Pad Free-3(139.679mm,29.337mm) on Multi-Layer
+Pad Free-4(166.984mm,29.337mm) on Multi-Layer
+Pad Free-5(166.984mm,72.517mm) on Multi-Layer
+Pad P_SWD_STLink_3-1(93.959mm,134.239mm) on Multi-Layer
+Pad P_SWD_STLink_3-2(96.499mm,134.239mm) on Multi-Layer
+Pad P_SWD_STLink_3-3(99.039mm,134.239mm) on Multi-Layer
+Pad P_SWD_STLink_3-4(101.579mm,134.239mm) on Multi-Layer
+Pad P_Right_3-1(107.167mm,124.841mm) on Multi-Layer
+Pad P_Right_3-2(107.167mm,122.301mm) on Multi-Layer
+Pad P_Right_3-3(107.167mm,119.761mm) on Multi-Layer
+Pad P_Right_3-4(107.167mm,117.221mm) on Multi-Layer
+Pad P_Right_3-5(107.167mm,114.681mm) on Multi-Layer
+Pad P_Right_3-6(107.167mm,112.141mm) on Multi-Layer
+Pad P_Right_3-7(107.167mm,109.601mm) on Multi-Layer
+Pad P_Right_3-8(107.167mm,107.061mm) on Multi-Layer
+Pad P_NRST_3-1(103.103mm,97.409mm) on Multi-Layer
+Pad P_NRST_3-2(105.643mm,97.409mm) on Multi-Layer
+Pad P_BOOT_0_3-1(96.499mm,126.492mm) on Multi-Layer
+Pad P_BOOT_0_3-2(99.039mm,126.492mm) on Multi-Layer
+Pad P_Left_3-1(82.275mm,121.79mm) on Multi-Layer
+Pad P_Left_3-2(82.275mm,119.25mm) on Multi-Layer
+Pad P_Left_3-3(82.275mm,116.71mm) on Multi-Layer
+Pad P_Left_3-4(82.275mm,114.17mm) on Multi-Layer
+Pad P_Left_3-5(82.275mm,111.63mm) on Multi-Layer
+Pad P_Left_3-6(82.275mm,109.09mm) on Multi-Layer
+Pad P_Left_3-7(82.275mm,106.55mm) on Multi-Layer
+Pad P_Left_3-8(82.275mm,104.01mm) on Multi-Layer
+Pad Free-2(80.878mm,135.509mm) on Multi-Layer
+Pad Free-3(80.878mm,92.329mm) on Multi-Layer
+Pad Free-4(108.183mm,92.329mm) on Multi-Layer
+Pad Free-5(108.183mm,135.509mm) on Multi-Layer
+Pad P_SWD_STLink_2-1(93.578mm,70.866mm) on Multi-Layer
+Pad P_SWD_STLink_2-2(96.118mm,70.866mm) on Multi-Layer
+Pad P_SWD_STLink_2-3(98.658mm,70.866mm) on Multi-Layer
+Pad P_SWD_STLink_2-4(101.198mm,70.866mm) on Multi-Layer
+Pad P_Right_2-1(106.786mm,61.468mm) on Multi-Layer
+Pad P_Right_2-2(106.786mm,58.928mm) on Multi-Layer
+Pad P_Right_2-3(106.786mm,56.388mm) on Multi-Layer
+Pad P_Right_2-4(106.786mm,53.848mm) on Multi-Layer
+Pad P_Right_2-5(106.786mm,51.308mm) on Multi-Layer
+Pad P_Right_2-6(106.786mm,48.768mm) on Multi-Layer
+Pad P_Right_2-7(106.786mm,46.228mm) on Multi-Layer
+Pad P_Right_2-8(106.786mm,43.688mm) on Multi-Layer
+Pad P_NRST_2-1(102.722mm,34.036mm) on Multi-Layer
+Pad P_NRST_2-2(105.262mm,34.036mm) on Multi-Layer
+Pad P_BOOT_0_2-1(96.118mm,63.119mm) on Multi-Layer
+Pad P_BOOT_0_2-2(98.658mm,63.119mm) on Multi-Layer
+Pad P_Left_2-1(81.894mm,58.417mm) on Multi-Layer
+Pad P_Left_2-2(81.894mm,55.877mm) on Multi-Layer
+Pad P_Left_2-3(81.894mm,53.337mm) on Multi-Layer
+Pad P_Left_2-4(81.894mm,50.797mm) on Multi-Layer
+Pad P_Left_2-5(81.894mm,48.257mm) on Multi-Layer
+Pad P_Left_2-6(81.894mm,45.717mm) on Multi-Layer
+Pad P_Left_2-7(81.894mm,43.177mm) on Multi-Layer
+Pad P_Left_2-8(81.894mm,40.637mm) on Multi-Layer
+Pad Free-2(80.497mm,72.136mm) on Multi-Layer
+Pad Free-3(80.497mm,28.956mm) on Multi-Layer
+Pad Free-4(107.802mm,28.956mm) on Multi-Layer
+Pad Free-5(107.802mm,72.136mm) on Multi-Layer
+Pad P_SWD_STLink_1-1(45.953mm,133.477mm) on Multi-Layer
+Pad P_SWD_STLink_1-2(48.493mm,133.477mm) on Multi-Layer
+Pad P_SWD_STLink_1-3(51.033mm,133.477mm) on Multi-Layer
+Pad P_SWD_STLink_1-4(53.573mm,133.477mm) on Multi-Layer
+Pad P_Right_1-1(59.161mm,124.079mm) on Multi-Layer
+Pad P_Right_1-2(59.161mm,121.539mm) on Multi-Layer
+Pad P_Right_1-3(59.161mm,118.999mm) on Multi-Layer
+Pad P_Right_1-4(59.161mm,116.459mm) on Multi-Layer
+Pad P_Right_1-5(59.161mm,113.919mm) on Multi-Layer
+Pad P_Right_1-6(59.161mm,111.379mm) on Multi-Layer
+Pad P_Right_1-7(59.161mm,108.839mm) on Multi-Layer
+Pad P_Right_1-8(59.161mm,106.299mm) on Multi-Layer
+Pad P_NRST_1-1(55.097mm,96.647mm) on Multi-Layer
+Pad P_NRST_1-2(57.637mm,96.647mm) on Multi-Layer
+Pad P_BOOT_0_1-1(48.493mm,125.73mm) on Multi-Layer
+Pad P_BOOT_0_1-2(51.033mm,125.73mm) on Multi-Layer
+Pad P_Left_1-1(34.269mm,121.028mm) on Multi-Layer
+Pad P_Left_1-2(34.269mm,118.488mm) on Multi-Layer
+Pad P_Left_1-3(34.269mm,115.948mm) on Multi-Layer
+Pad P_Left_1-4(34.269mm,113.408mm) on Multi-Layer
+Pad P_Left_1-5(34.269mm,110.868mm) on Multi-Layer
+Pad P_Left_1-6(34.269mm,108.328mm) on Multi-Layer
+Pad P_Left_1-7(34.269mm,105.788mm) on Multi-Layer
+Pad P_Left_1-8(34.269mm,103.248mm) on Multi-Layer
+Pad Free-2(32.872mm,134.747mm) on Multi-Layer
+Pad Free-3(32.872mm,91.567mm) on Multi-Layer
+Pad Free-4(60.177mm,91.567mm) on Multi-Layer
+Pad Free-5(60.177mm,134.747mm) on Multi-Layer
+Pad Free-5(59.288mm,71.882mm) on Multi-Layer
+Pad Free-4(59.288mm,28.702mm) on Multi-Layer
+Pad Free-3(31.983mm,28.702mm) on Multi-Layer
+Pad Free-2(31.983mm,71.882mm) on Multi-Layer
+Pad P_Left-1(33.38mm,58.163mm) on Multi-Layer
+Pad P_Left-2(33.38mm,55.623mm) on Multi-Layer
+Pad P_Left-3(33.38mm,53.083mm) on Multi-Layer
+Pad P_Left-4(33.38mm,50.543mm) on Multi-Layer
+Pad P_Left-5(33.38mm,48.003mm) on Multi-Layer
+Pad P_Left-6(33.38mm,45.463mm) on Multi-Layer
+Pad P_Left-7(33.38mm,42.923mm) on Multi-Layer
+Pad P_Left-8(33.38mm,40.383mm) on Multi-Layer
+Pad P_Right-1(58.272mm,61.214mm) on Multi-Layer
+Pad P_Right-2(58.272mm,58.674mm) on Multi-Layer
+Pad P_Right-3(58.272mm,56.134mm) on Multi-Layer
+Pad P_Right-4(58.272mm,53.594mm) on Multi-Layer
+Pad P_Right-5(58.272mm,51.054mm) on Multi-Layer
+Pad P_Right-6(58.272mm,48.514mm) on Multi-Layer
+Pad P_Right-7(58.272mm,45.974mm) on Multi-Layer
+Pad P_Right-8(58.272mm,43.434mm) on Multi-Layer
+Pad P_NRST-1(54.208mm,33.782mm) on Multi-Layer
+Pad P_NRST-2(56.748mm,33.782mm) on Multi-Layer
+Pad P_SWD_STLink-1(45.064mm,70.612mm) on Multi-Layer
+Pad P_SWD_STLink-2(47.604mm,70.612mm) on Multi-Layer
+Pad P_SWD_STLink-3(50.144mm,70.612mm) on Multi-Layer
+Pad P_SWD_STLink-4(52.684mm,70.612mm) on Multi-Layer
+Pad P_BOOT_0-1(47.604mm,62.865mm) on Multi-Layer
+Pad P_BOOT_0-2(50.144mm,62.865mm) on Multi-Layer
+
+Via teardrops failed : 0
+
+
